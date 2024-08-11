@@ -1,0 +1,230 @@
+body {
+    background:#4d4d4d !important; 
+}
+
+div.logo {
+    background-image: url(../img/choir-banner-02.jpg);
+    background-position: center; /* Center the image */
+}
+
+a.logo__link {
+    background: rgba(255, 255, 255, 0.8);
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+div.logo__title {
+    color: #073355;
+}
+
+img[src$='#floatleft']
+{
+	float:left;
+}
+
+img[src$='#floatright']
+{
+	float:right;
+}
+
+.fc-title {
+    color: white;
+}
+
+h1,h2,h3 {
+    color: #073355;
+}
+strong { 
+    color: #073355;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.gallery {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-gap: 20px;
+max-width: 1000px;
+margin: 0 auto;
+overflow: hidden;
+}
+
+.gallery img {
+width: 100%;
+height: 150px;
+/* padding: 10px; */
+/* border: 1px solid #ddd; */
+background: #fff;
+object-fit: contain;
+position: relative;
+}
+
+/* .gallery img:hover {
+    z-index: 9;
+    transform: scale(1.1);
+    transition: transform ease 0.5s;
+} */
+
+.gallery img.full {
+    position: fixed;
+    top: 0; left: 0; z-index: 999;
+    width: 100vw; height: 100vh;
+    object-fit: fit;
+    background: rgba(0, 0, 0, 0.7);
+}
+.gallery img.full:hover {
+z-index: 999;
+transform: none;
+}
+
+@media only screen and (max-width: 600px) {
+.gallery .thumbs {
+    grid-template-columns: repeat(2, 1fr);
+}
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.column img {
+    width:100%
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* responsive grid */
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    /* border: 1px solid red; */
+}
+
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+      width: 100%;
+    }
+} 
+
+
+/* @media only screen and (max-width: 385px) {
+    [class*="col-"] {
+      width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+      width: 50%;
+    }
+} */
+
+
+table.events {
+    width:100%;
+    margin: auto;
+}
+table.events th {
+    text-align: left;
+    color: #ffffff;
+    /* background: {{ $highlightColor }}; */
+    background: #073355;
+    border-right: 0px;
+    padding: 8px;
+}
+
+table.events td {
+    border-right: 0px;
+    padding: 2px 8px ; 
+}
+
+table.events tr:nth-child(odd) {
+    color:#000000;
+    background: #cecece;
+}
+
+table.events tr:nth-child(odd) a {
+    color:#073355;
+}
+
+table.events tr {
+    border-bottom: 1px solid #ddd;
+}
+
+/* 
+event-date
+event-event
+event-loc>
+event-times
+event-who
+*/
+
+th.event-date {
+    width: 10%;
+}
+th.event-loc {
+    width: 20%;
+}
+th.event-pictures {
+    width: 8%;
+}
+table.board {
+    width: 100%;
+}
+th.board-col {
+    width: 33.33%;
+}
+/* roster list style */
+ul.roster {
+    margin: 0 0 20px 10px;
+    list-style-type: none;
+}
+/* calendar link override */
+span.fc-time {
+	color: #ffffff;
+}
+
+table th {
+    color: #ffffff;
+    background: #073772;
+    border-right: 0px;
+}
+
+.fmstrong {
+    font-weight: bold;
+    color: #073772;
+}

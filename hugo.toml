@@ -1,0 +1,156 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'FMS Choir'
+theme = 'mainroad'
+
+[Params]
+    description = "Forestwood Middle School Choir"
+    copyright = "Forestwood Middle School Choir Booster Club"
+    dateformat = "2006-01-02"
+    customCSS = ["css/custom.css"]
+    # spiritLink = "https://kristees.biz/collections/swim-and-dive"
+    # spiritLinkText = "Kristees FMHS Swim & Dive"
+    # uil = "UIL Conference 6A, Region 2, District 5"
+    mainSections = ["posts"]
+    googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap"
+    # HeaderImage = "2024-district-champsx800.png"
+
+[Params.style.vars]
+    highlightColor = "#073355"
+
+[Params.logo]
+    image = "img/logos/fms-choir-logo-200.png"
+    title = "FMS Choir"
+    subtitle = "Forestwood Middle School"
+
+[Params.sidebar]
+  home = "right"
+  list = false
+  single = false
+  widgets = ["recent","choirschedule","social","fms"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  cached = false # activate cache if true
+  # Enable parts of social widget
+  facebook = "Forestwood Middle School Choir Booster Club"
+  # twitter = "FMHSWaterJags"
+  # twitter2 = "waterpolofmhs"
+  instagram = "fmschoir"
+  # linkedin = "username"
+  # telegram = "username"
+  # github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "lavacekk@lisd.net"
+
+[Params.links]
+  voly = "https://lewisvilleisd.voly.org/"
+  privlesson = "https://forms.gle/AsM1RubUen3t5T1bA" #"https://docs.google.com/forms/d/e/1FAIpQLScT65BA5qDjGyeayTUDK1bDvhmgUqobd3NSK4PybrDSNAwccQ/viewform" #qrco.de/bfHFkm #https://forms.gle/AsM1RubUen3t5T1bA
+  choirvol = "https://docs.google.com/forms/d/e/1FAIpQLSdHg1psmgA6P9D8PF_OvYDEwdg5l1aPM7ue3pjP_DxO-IvI4w/viewform"
+  handbookdoc = "https://docs.google.com/document/d/1wLWKLBp_TIOVFzAZe98RQXM6ntMEtIQeVNM2yJ0GlPk/edit#heading=h.nj23sjpj5u97" #qrco.de/bfHliW
+  handbooksigform = "https://forms.gle/Nq1hvwaxEt3iNMCb9"
+  spirit6th = "https://my.cheddarup.com/c/forestwoodchoir6thgrade/items" 
+  spirit78th = "https://my.cheddarup.com/c/forestwoodchoir7th8thgrade/items"
+  calendar24 = "https://docs.google.com/document/d/1OSm4CIuz83e_xXSEVUsSVnf4rwPYuu5Hhpivxp-LFYQ/edit#heading=h.3f0ls4ew76cz"
+  feeform = "https://docs.google.com/document/d/1sWISc6jy6VvIltpc4N20UmPmMaqIwHJUVFn5Q2ACJ68/edit#heading=h.nj23sjpj5u97"
+
+# [Params.widgets.search]
+#   cached = false # activate cache if true
+#   url = "https://google.com/search"
+#   [Params.widgets.search.input]
+#     name = "sitesearch"
+#     pre = ""
+
+##
+# menu
+##
+[Menu]
+[[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+# [[menu.main]]
+#     name = 'Roster'
+#     pageRef = '/roster'
+#     weight = 10
+[[menu.main]]
+    name = 'Directors'
+    pageRef = '/directors'
+    weight = 20
+[[menu.main]]
+    name = 'Info'
+    pageRef = '/info'
+    weight = 21
+[[menu.main]]
+    name = 'Calendar'
+    pageRef = '/calendar'
+    weight = 30
+[[menu.main]]
+    name = 'Events'
+    pageRef = '/events'
+    weight = 31
+# [[menu.main]]
+#     name = 'Volunteer'
+#     pageRef = '/volunteer'
+#     weight = 40
+[[menu.main]]
+    name = 'Photos'
+    pageRef = '/photos'
+    weight = 60
+[[menu.main]]
+    name = 'Booster Info'
+    pageRef = '/booster-info'
+    weight = 61
+# [[menu.main]]
+#     name = 'Spirit Wear'
+#     url = 'https://kristees.biz/collections/swim-and-dive'
+#     weight = 70
+#     [menu.main.params]
+#         external = true
+# [[menu.main]]
+#     name = 'Forms'
+#     pageRef = '/forms'
+#     weight = 80
+[[menu.main]]
+    name = 'Choir Handbook'
+    pageRef = '/handbook'
+    weight = 81
+# [[menu.main]]
+#     name = "sub-menu"
+#     url = '/forms'
+#     parent = "Forms"
+## 
+# menu footer
+##
+[[menu.footer]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 1
+# [[menu.footer]]
+#     name = 'Roster'
+#     pageRef = '/roster'
+#     weight = 10
+# [[menu.footer]]
+#     name = 'Volunteer'
+#     pageRef = '/volunteer'
+#     weight = 40
+# [[menu.footer]]
+#     name = 'Booster Info'
+#     pageRef = '/booster-info'
+#     weight = 50
+# [[menu.footer]]
+#     name = 'Spirit Wear'
+#     url = 'https://kristees.biz/collections/swim-and-dive'
+#     weight = 70
+#     [menu.main.params]
+#         rel = 'external'
+[[menu.footer]]
+    name = 'Choir Handbook'
+    pageRef = '/handbook'
+    weight = 80
+

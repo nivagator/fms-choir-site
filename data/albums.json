@@ -1,0 +1,35 @@
+{
+   "albums": [
+    {
+      "name": "Cluster Concert - October 3, 2024",
+      "path": "20230923-plano-west",
+      "url": "https://photos.fmhswaterjags.com/gallery#WrW0Nlr1jc39qq-3O59OD2yk",
+      "images": [
+        {"type":"file","name":"20230923-plano-west-0001.JPG"},
+        {"type":"file","name":"20230923-plano-west-0002.JPG"},
+        {"type":"file","name":"20230923-plano-west-0003.JPG"}
+      ]
+    },
+    {
+      "name": "8th Grade Tenor/Bass Social - November 4th, 2024",
+      "path": "20231001-main-event",
+      "url": "https://photos.fmhswaterjags.com/gallery#cpeWl1TfP-ZpfTeyP4pvCVYa",
+      "images": [
+        {"type":"file","name":"20231001-main-event-0001.jpg"},
+        {"type":"file","name":"20231001-main-event-0002.jpg"},
+        {"type":"file","name":"20231001-main-event-0003.jpg"}
+      ]
+    },
+    {
+      "name": "UIL Concert and Contest - March 3-4, 2025",
+      "path": "20231024-jesuit-ursuline",
+      "url": "https://photos.fmhswaterjags.com/gallery#80QM2bFdSQFVSnBZ7Ur_Zu0l",
+      "images": [
+        {"type":"file","name":"20231024-jesuit-ursuline-001.JPG"},
+        {"type":"file","name":"20231024-jesuit-ursuline-002.JPG"},
+        {"type":"file","name":"20231024-jesuit-ursuline-003.JPG"}
+      ]
+    }
+  ]
+}
+

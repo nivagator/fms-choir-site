@@ -1,0 +1,214 @@
+[
+  {
+    "start": "2024-08-10",
+    "title": "Choir Registration Day",
+    "location": "FMS Cafeteria",
+    "time": "10:00a-11:30a",
+    "arriveTime": "4:30PM",
+    "warmupTime": "4:45PM",
+    "startTime": "6:00PM",
+    "who": "All Students and Parents",
+    "type": "admin",      
+    "photos": ""
+  },{
+    "start": "2024-08-23",
+    "title": "Due Day (Forms, Fees, Photo, Shirts)",
+    "path": "20240823-due-day",
+    "location": "Multiple, see link",
+    "time": "by 11:59pm",
+    "who": "All Students",
+    "type": "admin",      
+    "photos": ""
+  },{
+    "start": "2024-08-27",
+    "title": "FMS Open House",
+    "location": "FMS",
+    "time": "6:00p",
+    "who": "All Parents",
+    "type": "admin",      
+    "photos": ""
+  },{
+    "start": "2024-10-03",
+    "title": "Cluster Concert Rehearsal Field Trip",
+    "location": "First Baptist Church Lewisville",
+    "time": "1st-3rd Period",
+    "who": "All 7/8th Students",
+    "type": "rehearsal",      
+    "photos": ""
+  },{
+    "start": "2024-10-03",
+    "title": "Cluster Concert",
+    "location": "First Baptist Church Lewisville",
+    "time": "6:00p",
+    "who": "All 7/8th Students",
+    "type": "concert",      
+    "photos": ""
+  },{
+    "start": "2024-10-08",
+    "title": "6th Treble combined rehearsal (graded)",
+    "location": "FMS Choir Room",
+    "time": "8:20-8:50a",
+    "who": "ALL 5th+8th period students",
+    "type": "rehearsal",      
+    "photos": ""
+  },{
+    "start": "2024-10-08",
+    "title": "Concert: Treble Choirs",
+    "location": "FMS Gym",
+    "time": "6:00p",
+    "who": "6th Grade Treble, Lyric, Bel Canto",
+    "type": "concert",      
+    "photos": ""
+  },{
+    "start": "2024-10-10",
+    "title": "Concert: Tenor/Bass Choirs",
+    "location": "FMS Gym",
+    "time": "6:00p",
+    "who": "6th Grade Cambiata, Tenor, Bass, Cantus",
+    "type": "concert",      
+    "photos": ""
+  },{
+    "start": "2024-10-19",
+    "title": "All Region Auditions",
+    "location": "Shadow Ridge MS",
+    "time": "All Day",
+    "who": "Any prepared, registered 7/8th singer",
+    "type": "audition",      
+    "photos": ""
+  },{
+    "start": "2024-11-04",
+    "title": "8th Grade Tenor/Bass Social",
+    "location": "FMHS",
+    "time": "During/After School",
+    "who": "All 8-12th TB Singers",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2024-11-11",
+    "title": "Veteran's Day Performance",
+    "location": "FMS Gym",
+    "time": "During School",
+    "who": "Bel Canto Only",
+    "type": "concert",      
+    "photos": ""
+  },{
+    "start": "2024-11-19",
+    "title": "All Region Clinic and Concert",
+    "time": "Arrive 8:30a",
+    "who": "Region Students",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2024-12-06",
+    "title": "Blueprint Field Trip",
+    "location": "FMHS",
+    "time": "1st-4th Period",
+    "who": "All 7/8th Students",
+    "type": "field trip",      
+    "photos": ""
+  },{
+    "start": "2024-12-11",
+    "title": "6th Treble combined rehearsal (graded)",
+    "location": "FMS Choir Room",
+    "time": "8:20-8:50a",
+    "who": "ALL 5th+8th period students",
+    "type": "rehearsal",      
+    "photos": ""
+  },{
+    "start": "2024-12-13",
+    "title": "Choir Concert",
+    "location": "FMHS Auditorium",
+    "time": "7:00p",
+    "who": "All Students",
+    "type": "concert",      
+    "photos": ""
+  },{
+    "start": "2024-12-16",
+    "title": "Elementary School Tour",
+    "location": "Feeder Elementaries",
+    "time": "7:30a AT FVE",
+    "who": "Bel Canto Cantus",
+    "type": "concert",      
+    "photos": ""
+  },{
+    "start": "2025-01-29",
+    "title": "MS/HS Choir Cluster Social",
+    "location": "TBD",
+    "time": "5-7p",
+    "who": "Open to All!",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2025-02-21",
+    "title": "PreUIL",
+    "location": "Drop off @ FMHS",
+    "time": "Morning",
+    "who": "All 7/8th Singers",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2025-02-27",
+    "title": "PreUIL Concert",
+    "location": "TBD",
+    "time": "6:00p",
+    "who": "All eligible 7/8th Singers",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2025-03-03",
+    "title": "UIL Concert and Contest Day 1",
+    "location": "Eaton HS",
+    "time": "TBD, School Day",
+    "who": "All 7/8th Singers",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2025-03-04",
+    "title": "UIL Concert and Contest Day 2",
+    "location": "Eaton HS",
+    "time": "TBD, School Day",
+    "who": "All 7/8th Singers",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2025-03-06",
+    "title": "6th Treble combined rehearsal (graded)",
+    "location": "FMS Choir Room",
+    "time": "8:20-8:50a",
+    "who": "ALL 5th+8th period students",
+    "type": "rehearsal",      
+    "photos": ""
+  },{
+    "start": "2025-04-05",
+    "title": "Solo and Ensemble Contest",
+    "location": "Killian Middle School",
+    "time": "TBD, Morning",
+    "who": "All interested Singers",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2025-04-25",
+    "title": "Spring Sing Contest",
+    "location": "FMHS",
+    "time": "TBD, School Day",
+    "who": "All eligible students",
+    "type": "event",      
+    "photos": ""
+  },{
+    "start": "2025-05-06",
+    "title": "6th Treble combined rehearsal (graded)",
+    "location": "FMS Choir Room",
+    "time": "8:20-8:50a",
+    "who": "ALL 5th+8th period students",
+    "type": "rehearsal",      
+    "photos": ""
+  },{
+    "start": "2025-05-08",
+    "title": "Choir Concert",
+    "location": "FMS Gym",
+    "time": "7:15pm for 7/8th",
+    "who": "All students",
+    "type": "concert",      
+    "photos": ""
+  }
+]

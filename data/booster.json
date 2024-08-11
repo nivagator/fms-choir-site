@@ -1,0 +1,36 @@
+{
+    "board": [
+        {
+            "fname": "Jane",
+            "lname": "Doe",
+            "position": "President"
+        },{
+            "fname": "Sarah",
+            "lname": "Jones",
+            "position": "Vice President"
+        },{
+            "fname": "John",
+            "lname": "Franklin",
+            "position": "Treasurer"
+        },{
+            "fname": "Sue",
+            "lname": "Wilson",
+            "position": "Secretary"
+        },{
+            "fname": "Marge",
+            "lname": "Davidson",
+            "position": "Member At Large"
+        }
+    ],
+    "chairs": [
+        {
+            "fname": "Liz",
+            "lname": "Sanders",
+            "position": "Volunteer Chair"
+        },{
+            "fname": "Penny",
+            "lname": "Ortiz",
+            "position": "Spirit Wear"
+        }
+    ]
+}

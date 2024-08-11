@@ -1,0 +1,74 @@
+<table class="events">
+  <tr>
+      <th class="event-date">Date</th>
+      <th class="event-event">What</th>
+      <!-- <th class="event-opp">Opponent</th> -->
+      <th class="event-loc">Where</th>
+      <th class="event-times">When</th>
+      <th class="event-who">Who</th>
+      <!-- <th>Time (CT)</th> -->
+      <!-- <th>Result</th> -->
+      <!-- <th>event Page</th> -->
+      <!-- <th>Photos</th> -->
+      <!-- <th class="event-results"></th>
+      <th class="event-pictures"></th> -->
+  </tr>
+  {{ $data := .Site.Data.events}}
+  {{ range (sort $data ".start" "asc" ) }}
+  <tr>
+      <!-- <a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br> -->
+      <td>
+          {{ if .end }}
+              {{ .start | time.Format "Jan 2" }}-{{ .end | time.Format "2, 2006" }}
+          {{ else }}
+              {{ .start | time.Format ":date_medium" }}
+          {{ end }}
+      </td>
+      <!-- <td>{{.event}}</td> -->
+      <td>
+          {{ if .url }}
+            <a href="{{.url}}">{{.title}}</a>
+          {{ else if .path }}  
+            <a href="../events/{{.path}}">{{.title}}</a>
+          {{ else }}
+            {{.title}}
+          {{ end }}
+      </td>
+      <td>{{.location}}</td>
+      <!-- <td></td> -->
+      <!-- <td></td> -->
+      <!-- <td><a href="{{.url}}">LINK</a></td> -->
+      <!-- <td>
+          {{ if .photos }}
+              <a href="{{.photos}}">Photo Album</a>
+          {{ end }}
+      </td> -->
+      <td>
+          {{ if .time }}
+              {{.time}}
+          {{ end }}
+          <!-- {{ if (and .results .photos)}}
+           | 
+          {{ end }} -->
+      </td>
+      <td>
+        {{ if .who }}
+          {{.who}}
+        {{ end }}
+      </td>
+      <!-- <td>
+          {{ if .photos }}
+              <a href="{{.photos}}" target="_blank">Pictures</a>
+          {{ end }}
+      </td> -->
+  </tr>
+  {{ end }}
+</table>
+
+<!-- https://gohugo.io/functions/dateformat/ -->
+
+<!-- 
+<h3>option 2 list</h3>
+{{ range .Site.Data.events }}
+<a href="{{.url}}">{{ .start | time.Format ":date_medium" }} {{.title}}</a> @ {{.location}}<br>
+{{ end }} -->

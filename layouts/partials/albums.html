@@ -1,0 +1,21 @@
+{{$data := .Site.Data.albums.albums}}
+<!-- uncomment header when we have an album -->
+<!-- <h2>albums</h2>  -->
+{{ range $key, $value := (sort $data ".path" "desc" ) }}
+    {{$lycheeurl := .url}}
+    <!-- <h3><a href="{{$lycheeurl}}" target="_blank">{{.name}}</a></h3> -->
+     <h3>{{.name}}</h3>
+    <div class="row">
+        
+        {{ range first 3 .images}} 
+        <div class="column">
+            <!-- <a href="{{$lycheeurl}}" target="_blank"><img src="/img/albums/{{$value.path}}/{{.name}}" alt=""></a> -->
+            <img src="https://placehold.co/800x600.png" alt="">
+        </div>
+        {{ end }}
+        <div class="column">
+            <!-- <a href="{{$lycheeurl}}" target="_blank"><img src="/img/more.webp" alt="more..."></a> -->
+            <img src="https://placehold.co/800x600.png" alt="">
+        </div>
+    </div>
+{{ end }} 
