@@ -83,8 +83,8 @@ theme = 'mainroad'
     pageRef = '/directors'
     weight = 20
 [[menu.main]]
-    name = 'Info'
-    pageRef = '/info'
+    name = 'FAQ'
+    pageRef = '/faq'
     weight = 21
 [[menu.main]]
     name = 'Calendar'

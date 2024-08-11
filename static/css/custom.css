@@ -3,8 +3,9 @@ body {
 }
 
 div.logo {
-    background-image: url(../img/choir-banner-02.jpg);
+    background-image: url(../img/choir-banner-03.webp);
     background-position: center; /* Center the image */
+    background-size:cover;
 }
 
 a.logo__link {
