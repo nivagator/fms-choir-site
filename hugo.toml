@@ -27,7 +27,7 @@ theme = 'mainroad'
   home = "right"
   list = false
   single = false
-  widgets = ["recent","choirschedule","social","fms"]
+  widgets = ["recent","choirschedule","about","social","fms"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
