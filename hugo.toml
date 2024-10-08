@@ -98,14 +98,14 @@ theme = 'mainroad'
 #     name = 'Volunteer'
 #     pageRef = '/volunteer'
 #     weight = 40
-[[menu.main]]
-    name = 'Photos'
-    pageRef = '/photos'
-    weight = 60
-[[menu.main]]
-    name = 'Booster Info'
-    pageRef = '/booster-info'
-    weight = 61
+# [[menu.main]]
+#     name = 'Photos'
+#     pageRef = '/photos'
+#     weight = 60
+# [[menu.main]]
+#     name = 'Booster Info'
+#     pageRef = '/booster-info'
+#     weight = 61
 # [[menu.main]]
 #     name = 'Spirit Wear'
 #     url = 'https://kristees.biz/collections/swim-and-dive'
