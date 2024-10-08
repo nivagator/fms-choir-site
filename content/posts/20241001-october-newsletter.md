@@ -87,7 +87,7 @@ For the concert that evening, 7th and 8th grade students **need to arrive at Fir
 Lewisville, TX 75077
 
 ## All Region
-![all region](/img/2024-09-29-allregion.png#floatright)  
+![all region](/img/2024-09-29-allregion.webp#floatright)  
 Students wishing to audition for All Region can come to sectionals after school until 4:45 if they wish to have additional help preparing for auditions.
 
 Auditions are on October 19 at Shadow Ridge MS.  Students will receive their audition time one week before auditions and will sing specific sections (called “cuts”) of two of the three prepared pieces and sight read an unknown 8 measure example. The cuts will be released to students when we return from the long weekend on October 15.  Students must have their own transportation to Shadow Ridge at their check-in time of their audition block.  The students will sing through the cuts once all together; once they have sung through their cuts, no more singing is allowed (or they could be disqualified). Once the student has completed their individual audition, they are free to leave.  More details will be sent to students involved. 
@@ -116,12 +116,12 @@ Another easy way to support the program that’s free for you is to link your Kr
 
 [How to Kroger Rewards via Desktop](https://drive.google.com/file/d/1mSzdZTaGF9Bvxy_kOdc9HqSDZb9QjJFY/view)
 
-Are you great at remembering to take photos? If you could capture a few of our Choir’s performance and students, we’d appreciate them them in this folder: [Photos](https://www.canva.com/link?target=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1esneRj2TeqjIZhcwWGHCDRNOfcX9xrRd%3Fusp%3Dsharing&design=DAGSQehuHno&accessRole=viewer&linkSource=document)
+Are you great at remembering to take photos? If you could capture a few of our Choir’s performance and students, we’d appreciate them them in this folder: [Photos](https://drive.google.com/drive/folders/1esneRj2TeqjIZhcwWGHCDRNOfcX9xrRd)
 
 ---
 
 ## Spirit Night
-![torchy's](/img/2024-10-08-torchys.png#floatright)
+![torchy's](/img/2024-10-08-torchys.webp#floatright)
 Thanks for supporting Craft Pies!  Our next fundraiser is Wednesday, 10/2 at Torchy’s Tacos in Highland Village! 
 
 Be sure to mention you’re here for FMS Choir when you pay! 

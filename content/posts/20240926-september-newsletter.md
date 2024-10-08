@@ -83,7 +83,7 @@ For the concert that evening, 7th and 8th grade students **need to arrive at Fir
 Lewisville, TX 75077
 
 ## All Region
-![all region](/img/2024-09-29-allregion.png#floatright)  
+![all region](/img/2024-09-29-allregion.webp#floatright)  
 Students wishing to audition for All Region can come to sectionals (calendar found here) if they would like extra help.  Also available is our FREE LISD All Region Camp to learn the music and feel prepared! This music is challenging and will require a good amount of individual work at home.  We are not teaching all the repertoire in every class, especially in 3rd and 7th periods. Students should practice on their own at home with the practice tracks and in their private lessons. 
 
 If your student would like to attend the camp, [REGISTER HERE](https://www.canva.com/link?target=https%3A%2F%2Fforms.gle%2FTEQRRyMfhFzoLYTp8&design=DAGPjPMYoeY&accessRole=viewer&linkSource=document) by Sept. 20.
@@ -111,7 +111,7 @@ Another easy way to support the program that’s free for you is to link your Kr
 [How to Kroger Rewards via Desktop](https://drive.google.com/file/d/1mSzdZTaGF9Bvxy_kOdc9HqSDZb9QjJFY/view)
 
 ## Spirit Night
-![craft pies](/img/2024-09-29-craft-pies.png#floatright)  
+![craft pies](/img/2024-09-29-craft-pies.webp#floatright)  
 Our first Spirit Night of the year is at Craft Pies! Join us Monday, September 23.  
 
 Be sure to mention you’re here for FMS Choir when you pay so we earn the 25% of your check’s total! 
