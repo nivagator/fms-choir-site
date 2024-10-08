@@ -37,7 +37,7 @@ theme = 'mainroad'
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  facebook = "Forestwood Middle School Choir Booster Club"
+  facebook = "groups/834672333219924" #"Forestwood Middle School Choir Booster Club"
   # twitter = "FMHSWaterJags"
   # twitter2 = "waterpolofmhs"
   instagram = "fmschoir"
