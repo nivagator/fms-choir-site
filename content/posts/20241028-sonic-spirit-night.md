@@ -1,6 +1,7 @@
 +++
 title = 'Choir Spirit Night @ Sonic Oct, 28th 5-9pm'
 date = 2024-10-28T09:30:00-05:00
+draft = true
 +++
 Join us and help support the choir at Sonic on Cross Timbers near Kroger and Life Time Fitness!
 
