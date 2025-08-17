@@ -52,12 +52,14 @@ theme = 'mainroad'
   voly = "https://lewisvilleisd.voly.org/"
   privlesson = "https://forms.gle/AsM1RubUen3t5T1bA" #"https://docs.google.com/forms/d/e/1FAIpQLScT65BA5qDjGyeayTUDK1bDvhmgUqobd3NSK4PybrDSNAwccQ/viewform" #qrco.de/bfHFkm #https://forms.gle/AsM1RubUen3t5T1bA
   choirvol = "https://docs.google.com/forms/d/e/1FAIpQLSdHg1psmgA6P9D8PF_OvYDEwdg5l1aPM7ue3pjP_DxO-IvI4w/viewform"
-  handbookdoc = "https://docs.google.com/document/d/1wLWKLBp_TIOVFzAZe98RQXM6ntMEtIQeVNM2yJ0GlPk/edit#heading=h.nj23sjpj5u97" #qrco.de/bfHliW
+  handbookdoc = "https://docs.google.com/document/d/13lnsDlwdar1fkq3TjyW7uzxTn0bKOTWYrZLuS0MFQJw/edit?tab=t.0#heading=h.nj23sjpj5u97" #qrco.de/bfHliW
   handbooksigform = "https://forms.gle/Nq1hvwaxEt3iNMCb9"
-  spirit6th = "https://my.cheddarup.com/c/forestwoodchoir6thgrade/items" 
-  spirit78th = "https://my.cheddarup.com/c/forestwoodchoir7th8thgrade/items"
+  spirit6th = "https://my.cheddarup.com/c/forestwood-ms-choir-6th-grade-supplies-spiritwear-2024-2025/items" 
+  spirit78th = "https://my.cheddarup.com/c/forestwood-ms-choir-7th-8th-grade-supplies-spir-49231/items"
   calendar24 = "https://docs.google.com/document/d/1OSm4CIuz83e_xXSEVUsSVnf4rwPYuu5Hhpivxp-LFYQ/edit#heading=h.3f0ls4ew76cz"
-  feeform = "https://docs.google.com/document/d/1sWISc6jy6VvIltpc4N20UmPmMaqIwHJUVFn5Q2ACJ68/edit#heading=h.nj23sjpj5u97"
+  calendar25 = "https://docs.google.com/document/d/1idmaOdWU2YZXnhOTtjgDEHXzKlV5iuBOK1j4NkKq2Xo/edit?tab=t.0#heading=h.3f0ls4ew76cz"
+  gcal = "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&showPrint=0&showTz=0&src=Y18wOGE1MjJkMzEwZmZmNzY4ZjhjMmVkYTc3MTcxY2ZiYTAyYTFhZTc2OWIxYzVkYWE3N2I0ZjI1NjQyZDM5YzU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23b39ddb"
+  feeform = "https://docs.google.com/document/d/1iQbounwkE5vJPBMg1ViiE15DxUTSgNJWuZAKi15n2Eg/edit?tab=t.0#heading=h.nj23sjpj5u97"
 
 # [Params.widgets.search]
 #   cached = false # activate cache if true
@@ -94,6 +96,10 @@ theme = 'mainroad'
     name = 'Events'
     pageRef = '/events'
     weight = 31
+[[menu.main]]
+    name = 'Spirit Nights'
+    pageRef = '/spirit-nights'
+    weight = 32
 # [[menu.main]]
 #     name = 'Volunteer'
 #     pageRef = '/volunteer'
@@ -120,6 +126,10 @@ theme = 'mainroad'
     name = 'Choir Handbook'
     pageRef = '/handbook'
     weight = 81
+[[menu.main]]
+    name = 'Cantus'
+    pageRef = '/cantus'
+    weight = 82
 # [[menu.main]]
 #     name = "sub-menu"
 #     url = '/forms'
