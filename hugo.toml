@@ -50,16 +50,21 @@ theme = 'mainroad'
 
 [Params.links]
   voly = "https://lewisvilleisd.voly.org/"
-  privlesson = "https://forms.gle/AsM1RubUen3t5T1bA" #"https://docs.google.com/forms/d/e/1FAIpQLScT65BA5qDjGyeayTUDK1bDvhmgUqobd3NSK4PybrDSNAwccQ/viewform" #qrco.de/bfHFkm #https://forms.gle/AsM1RubUen3t5T1bA
-  choirvol = "https://docs.google.com/forms/d/e/1FAIpQLSdHg1psmgA6P9D8PF_OvYDEwdg5l1aPM7ue3pjP_DxO-IvI4w/viewform"
+  privlesson24 = "https://forms.gle/AsM1RubUen3t5T1bA" #"https://docs.google.com/forms/d/e/1FAIpQLScT65BA5qDjGyeayTUDK1bDvhmgUqobd3NSK4PybrDSNAwccQ/viewform" #qrco.de/bfHFkm #https://forms.gle/AsM1RubUen3t5T1bA
+  privlesson = "https://docs.google.com/forms/d/e/1FAIpQLSckQLk_sUsoJ38-VTDSv9n7x4wk2VEk3FMa2541qjkCqiBYkw/viewform?usp=header"
+  choirvol24 = "https://docs.google.com/forms/d/e/1FAIpQLSdHg1psmgA6P9D8PF_OvYDEwdg5l1aPM7ue3pjP_DxO-IvI4w/viewform"
+  choirvol = "https://docs.google.com/forms/d/e/1FAIpQLScXPKlRmcFLRa-wKm5VZFmDx2IwmAO8vMIGbrpcWdOI5VRaGQ/viewform?usp=sharing&ouid=109247476285912656444"
   handbookdoc = "https://docs.google.com/document/d/13lnsDlwdar1fkq3TjyW7uzxTn0bKOTWYrZLuS0MFQJw/edit?tab=t.0#heading=h.nj23sjpj5u97" #qrco.de/bfHliW
-  handbooksigform = "https://forms.gle/Nq1hvwaxEt3iNMCb9"
+  handbooksigform24 = "https://forms.gle/Nq1hvwaxEt3iNMCb9"
+  handbooksigform = "https://docs.google.com/forms/d/e/1FAIpQLSd61pLsM31_CW4iT1k55i9hOxpEikmsRxRN-118sbte8p-wsA/viewform?usp=dialog"
   spirit6th = "https://my.cheddarup.com/c/forestwood-ms-choir-6th-grade-supplies-spiritwear-2024-2025/items" 
   spirit78th = "https://my.cheddarup.com/c/forestwood-ms-choir-7th-8th-grade-supplies-spir-49231/items"
   calendar24 = "https://docs.google.com/document/d/1OSm4CIuz83e_xXSEVUsSVnf4rwPYuu5Hhpivxp-LFYQ/edit#heading=h.3f0ls4ew76cz"
   calendar25 = "https://docs.google.com/document/d/1idmaOdWU2YZXnhOTtjgDEHXzKlV5iuBOK1j4NkKq2Xo/edit?tab=t.0#heading=h.3f0ls4ew76cz"
   gcal = "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&showPrint=0&showTz=0&src=Y18wOGE1MjJkMzEwZmZmNzY4ZjhjMmVkYTc3MTcxY2ZiYTAyYTFhZTc2OWIxYzVkYWE3N2I0ZjI1NjQyZDM5YzU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23b39ddb"
   feeform = "https://docs.google.com/document/d/1iQbounwkE5vJPBMg1ViiE15DxUTSgNJWuZAKi15n2Eg/edit?tab=t.0#heading=h.nj23sjpj5u97"
+  photos24 = "https://drive.google.com/drive/folders/1esneRj2TeqjIZhcwWGHCDRNOfcX9xrRd"
+  photos25 = "https://drive.google.com/drive/folders/1Gmfx8W3DbliGfrHBhfqYs7xDohBFwJEf"
 
 # [Params.widgets.search]
 #   cached = false # activate cache if true
@@ -92,10 +97,10 @@ theme = 'mainroad'
     name = 'Calendar'
     pageRef = '/calendar'
     weight = 30
-[[menu.main]]
-    name = 'Events'
-    pageRef = '/events'
-    weight = 31
+# [[menu.main]]
+#     name = 'Events'
+#     pageRef = '/events'
+#     weight = 31
 [[menu.main]]
     name = 'Spirit Nights'
     pageRef = '/spirit-nights'
