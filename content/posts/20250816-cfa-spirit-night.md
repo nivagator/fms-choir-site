@@ -1,6 +1,7 @@
 +++
 title = 'Chick-fil-A Spirit Night - August 25th, 2025'
 date = 2025-08-16T22:47:53-05:00
+draft = true
 +++
 Join us and help support the choir at Chick-fil-A at Long Prairie and Flower Mound Road!
 

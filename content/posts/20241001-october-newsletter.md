@@ -1,6 +1,7 @@
 +++
 title = 'October 2024 Newsletter'
 date = 2024-10-08T11:40:34-05:00
+draft = true
 +++
 #### FOR ALL CHOIRS
 <!-- no toc -->
