@@ -1,11 +1,4 @@
-[  
-  {
-    "start": "2025-08-16",
-    "title": "Choir Registration Day",
-    "location": "FMS Cafeteria",
-    "time": "10-11:30a",
-    "who": "All students and parents"
-  },
+[
   {
     "start": "2025-08-22",
     "title": "Handbook due Photo due",
@@ -15,7 +8,7 @@
   },
   {
     "start": "2025-08-22",
-    "title": "Choir Fee Form/fees/extra shirt orders due",
+    "title": "Choir Fee Form/fees/ extra shirt orders due",
     "location": "Paper form with paper money to Mrs. Lavacek’s hands",
     "time": "During class",
     "who": "ALL students"
@@ -29,9 +22,9 @@
   },
   {
     "start": "2025-08-26",
-    "title": "Open House",
+    "title": "Open House - going over choir things!",
     "location": "FMS",
-    "time": "6-7:30pm",
+    "time": "6-7:30pm; you walk your child’s schedule",
     "who": "All parents"
   },
   {
@@ -53,7 +46,7 @@
     "title": "CHOIR CONCERT: TREBLE CHOIRS",
     "location": "FMS Gym",
     "time": "6pm concert (call times TBA)",
-    "who": "6th Grade Treble, Lyric, Bel Canto"
+    "who": "6th Grade Treble, Lyric, BC"
   },
   {
     "start": "2025-10-20",
@@ -63,11 +56,18 @@
     "who": "Everyone!"
   },
   {
-    "start": "2025-12-12",
+    "start": "2026-12-12",
     "title": "6th Treble combined rehearsal (graded)",
     "location": "FMS Choir Room",
     "time": "8:20-8:50am",
     "who": "ALL 5th+8th period students"
+  },
+  {
+    "start": "2026-12-12",
+    "title": "CHOIR CONCERT",
+    "location": "TBD",
+    "time": "TBD",
+    "who": "ALL students"
   },
   {
     "start": "2026-01-12",
@@ -112,11 +112,39 @@
     "who": "ALL students"
   },
   {
-    "start": "2026-05-08",
+    "start": "TBD",
     "title": "Choir field trip",
     "location": "TBA!",
     "time": "During school day",
     "who": "Eligible students"
+  },
+  {
+    "start": "2025-08-22",
+    "title": "Handbook form due Photo due",
+    "location": "Google Form in Canvas, photo to turn in box",
+    "time": "By 11:59pm",
+    "who": "ALL students"
+  },
+  {
+    "start": "2025-08-22",
+    "title": "Choir Fee Form, fees, and extra shirt orders due",
+    "location": "Paper copy and money to Mrs. Lavacek",
+    "time": "During class",
+    "who": "ALL students"
+  },
+  {
+    "start": "2025-08-25",
+    "title": "Spirit Night!",
+    "location": "Chik-Fil-A  FloMo 2499 & 3040",
+    "time": "5-8pm  order in the app & click “Yes, I’d like to support!”",
+    "who": "Everyone!"
+  },
+  {
+    "start": "2025-08-26",
+    "title": "Open House - going over choir things",
+    "location": "FMS",
+    "time": "6pm",
+    "who": "All parents"
   },
   {
     "start": "2025-09-25",
@@ -126,11 +154,32 @@
     "who": "ALL 7th and 8th graders"
   },
   {
+    "start": "2025-10-02",
+    "title": "CHOIR CONCERT: TENOR BASS CHOIRS",
+    "location": "FMS Gym",
+    "time": "6pm concert (call times TBA)",
+    "who": "6th Cambiata, Tenor Bass, Cantus"
+  },
+  {
+    "start": "2025-10-07",
+    "title": "CHOIR CONCERT: TREBLE CHOIRS",
+    "location": "FMS Gym",
+    "time": "6pm concert (call times TBA)",
+    "who": "6th Grade Treble, Lyric, Bel Canto"
+  },
+  {
     "start": "2025-10-18",
     "title": "All Region Auditions",
     "location": "Shadow Ridge MS",
-    "time": "All day",
+    "time": "All day (students are assigned a 1.5 hour time block)",
     "who": "Any interested, prepared, eligible  7-8th singer"
+  },
+  {
+    "start": "2025-10-20",
+    "title": "Spirit Night!",
+    "location": "Chik-Fil-A  FloMo 2499 & 3040",
+    "time": "5-8pm  order in the app!”",
+    "who": "Everyone!"
   },
   {
     "start": "2025-11-11",
@@ -147,11 +196,39 @@
     "who": "Students who made the choir!"
   },
   {
+    "start": "2025-12-05",
+    "title": "Blueprint Field Trip",
+    "location": "FMHS Cafeteria",
+    "time": "1st-3rd periods",
+    "who": "All 7th and 8th eligible students"
+  },
+  {
+    "start": "2025-12-12",
+    "title": "CHOIR CONCERT",
+    "location": "TBD",
+    "time": "TBD",
+    "who": "ALL students"
+  },
+  {
     "start": "2025-12-15",
-    "title": "Elementary Tour",
+    "title": "Elementary Tour: DE, GRE",
     "location": "Feeder Elementaries DROP OFF AT FVE",
     "time": "7:30am-6th period",
     "who": "Bel Canto, Cantus"
+  },
+  {
+    "start": "2026-01-12",
+    "title": "Spirit Night!",
+    "location": "Chik-Fil-A  FloMo 2499 & 3040",
+    "time": "5-8pm  order in the app & click “Yes, I’d like to support!”",
+    "who": "Everyone!"
+  },
+  {
+    "start": "2026-01-29",
+    "title": "MS/HS Choir Cluster Social Event",
+    "location": "FM2025-09-FMHS",
+    "time": "5-7pm",
+    "who": "Open to all!"
   },
   {
     "start": "2026-02-25",
@@ -169,11 +246,17 @@
   },
   {
     "start": "2026-03-10",
-    "end": "2026-03-11",
     "title": "UIL Concert and Contest",
     "location": "Marcus HS",
     "time": "TBD",
     "who": "All 7-8th singers"
+  },
+  {
+    "start": "2026-04-11",
+    "title": "Solo and Ensemble",
+    "location": "Killian Middle School",
+    "time": "8:00AM-1:00PM (1 hour block)",
+    "who": "Any eligible singers"
   },
   {
     "start": "2026-05-07",
@@ -183,6 +266,34 @@
     "who": "ALL students"
   },
   {
+    "start": "2025-08-16",
+    "title": "Choir Registration Day",
+    "location": "FMS Cafeteria",
+    "time": "10-11:30",
+    "who": "All students and parents"
+  },
+  {
+    "start": "2025-08-22",
+    "title": "Handbook form due Photo due",
+    "location": "Google Form in Canvas, photo to turn in box",
+    "time": "By 11:59pm",
+    "who": "ALL students"
+  },
+  {
+    "start": "2025-08-22",
+    "title": "Choir Fee Form, fees, and extra shirt orders due",
+    "location": "Paper copy and money to Mrs. Lavacek",
+    "time": "During class",
+    "who": "ALL students"
+  },
+  {
+    "start": "2025-08-26",
+    "title": "Open House - going over choir things",
+    "location": "FMS",
+    "time": "6pm",
+    "who": "All parents"
+  },
+  {
     "start": "2025-09-06",
     "title": "Cantus Retreat",
     "location": "TBD",
@@ -190,11 +301,39 @@
     "who": "All Cantus students"
   },
   {
+    "start": "2025-09-25",
+    "title": "CLUSTER CONCERT Field trip this morning to rehearse",
+    "location": "First Baptist Church,  Lewisville",
+    "time": "1-3rd per. Field trip Arrive at 5:30pm, concert at 6:00pm",
+    "who": "ALL 7th and 8th graders"
+  },
+  {
+    "start": "2025-10-02",
+    "title": "CHOIR CONCERT: TENOR BASS CHOIRS",
+    "location": "FMS Gym",
+    "time": "6pm concert (call times TBA)",
+    "who": "6th Cambiata, Tenor Bass, Cantus"
+  },
+  {
     "start": "2025-10-02",
     "title": "Cantus Meeting",
     "location": "FMS Gym",
     "time": "Following the concert (approx. 6:30)",
     "who": "Cantus students and parents"
+  },
+  {
+    "start": "2025-10-18",
+    "title": "All Region Auditions",
+    "location": "Shadow Ridge MS",
+    "time": "All day",
+    "who": "Any interested, prepared, registered 7-8th singer"
+  },
+  {
+    "start": "2025-11-15",
+    "title": "All Region Clinic and Concert",
+    "location": "Argyle HS",
+    "time": "8:30am arrive",
+    "who": "Students who made the choir"
   },
   {
     "start": "2025-12-05",
@@ -218,6 +357,20 @@
     "who": "ALL students"
   },
   {
+    "start": "2025-12-15",
+    "title": "Elementary Tour: DE, GRE",
+    "location": "Feeder Elementaries DROP OFF AT FVE",
+    "time": "7:30am-6th period",
+    "who": "Bel Canto, Cantus"
+  },
+  {
+    "start": "2026-01-29",
+    "title": "MS/HS Choir Cluster Social Event",
+    "location": "FM2025-09-FMHS",
+    "time": "5-7pm",
+    "who": "Open to all!"
+  },
+  {
     "start": "2026-02-01",
     "title": "TMEA Preview Concert",
     "location": "Murchison Performing Arts Center",
@@ -226,11 +379,17 @@
   },
   {
     "start": "2026-02-12",
-    "end": "2026-02-14",
     "title": "TMEA Trip and Performance",
     "location": "Henry B. Gonzalez Convention Center,  San Antonio, TX",
     "time": "TBD",
     "who": "All Cantus Students - friends and family welcome!"
+  },
+  {
+    "start": "2026-02-25",
+    "title": "PreUIL",
+    "location": "TBD",
+    "time": "Morning",
+    "who": "All 7-8th singers"
   },
   {
     "start": "2026-03-05",
@@ -240,10 +399,24 @@
     "who": "All eligible 7-8th singers"
   },
   {
+    "start": "2026-03-10",
+    "title": "UIL Concert and Contest",
+    "location": "Marcus HS",
+    "time": "TBD",
+    "who": "All 7-8th singers"
+  },
+  {
     "start": "2026-04-11",
     "title": "Solo and Ensemble Contest",
     "location": "Killian Middle School",
     "time": "8:00AM-1:00PM",
     "who": "Any interested singers"
+  },
+  {
+    "start": "2026-05-07",
+    "title": "CHOIR CONCERT",
+    "location": "FMS Gym",
+    "time": "7:15pm Concert for 7/8",
+    "who": "ALL students"
   }
 ]
