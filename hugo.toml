@@ -14,6 +14,7 @@ theme = 'mainroad'
     mainSections = ["posts"]
     googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap"
     # HeaderImage = "2024-district-champsx800.webp"
+    ignoreLogs = ['warning-goldmark-raw-html']
 
 [Params.style.vars]
     highlightColor = "#073355"
@@ -97,14 +98,18 @@ theme = 'mainroad'
     name = 'Calendar'
     pageRef = '/calendar'
     weight = 30
-# [[menu.main]]
-#     name = 'Events'
-#     pageRef = '/events'
-#     weight = 31
+[[menu.main]]
+    name = 'Events'
+    pageRef = '/events'
+    weight = 31
 [[menu.main]]
     name = 'Spirit Nights'
     pageRef = '/spirit-nights'
     weight = 32
+[[menu.main]]
+    name = 'Sponsorships'
+    pageRef = '/sponsorships'
+    weight = 33
 # [[menu.main]]
 #     name = 'Volunteer'
 #     pageRef = '/volunteer'
