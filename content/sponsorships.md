@@ -1,5 +1,5 @@
 +++
-title = 'Sponsorship Opportunities – TMEA Convention 2026'
+title = 'Forestwood Middle School Choir – TMEA 2026 Sponsors'
 date = 2025-10-12T22:16:52-05:00
 +++
 
@@ -14,15 +14,22 @@ Our **33 young men** will represent our school and community on this prestigious
 Your sponsorship is more than financial support-it is an investment in the growth, confidence and education of these talented students. Join us in helping them shine at TMEA 2026!
 
 ## SPONSORSHIP LEVELS
+We are deeply grateful to our generous sponsors for helping make our journey to perform at the Texas Music Educators Association (TMEA) 2026 Convention possible. Your support ensures that our Varsity Tenor-Bass Boys Choir-Cantus can proudly represent Forestwood and the Flower Mound community on a statewide stage!
+
+👉 {{< target-blank "Click here to Sponsor Online via CheddarUp:" "https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" >}}
 
 {{< sponsorlevels-shortcode >}}
 
 ---
 
-#### Sponsorship Payment
+### Become a Sponsor
+
+Your support makes a difference!
+
+Click below to sponsor online or learn more about how your business can help our students reach the TMEA 2026 stage.
+
 - Sponsorships may be submitted online here: {{< target-blank "Forestwood M.S. Choir Cantus TMEA Sponsorship" "https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" >}}
 - Checks payable to: FMS Choir Boosters
-- Please email high-resolution logos (PDF/EPS) for Virtuoso or Conductor’s Circle to: [deeleyandrea@gmail.com](mailto:deeleyandrea@gmail.com)
 
 **Questions? Contact: Andrea Deeley | Mobile/Text: 972-571-7543 | Email: [deeleyandrea@gmail.com](mailto:deeleyandrea@gmail.com)**
 
