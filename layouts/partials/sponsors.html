@@ -1,0 +1,16 @@
+{{ $level := .level }}
+{{ $data := index .context.Site.Data.sponsors $level }}
+
+{{ if $data }}
+  <ul>
+    {{ range $data }}
+      {{ if eq $level "conductor"}}
+        <li><strong>{{ .name }}</strong></li>
+      {{ else }}
+        <li>{{ .name }}</li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>Be our first!</p>
+{{ end }}

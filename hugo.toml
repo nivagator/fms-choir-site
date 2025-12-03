@@ -7,7 +7,7 @@ theme = 'mainroad'
     description = "Forestwood Middle School Choir"
     copyright = "Forestwood Middle School Choir Booster Club"
     dateformat = "2006-01-02"
-    customCSS = ["css/custom.css"]
+    customCSS = ["css/custom.css?q=3"]
     # spiritLink = "https://kristees.biz/collections/swim-and-dive"
     # spiritLinkText = "Kristees FMHS Swim & Dive"
     # uil = "UIL Conference 6A, Region 2, District 5"
@@ -28,7 +28,7 @@ theme = 'mainroad'
   home = "right"
   list = false
   single = false
-  widgets = ["recent","choirschedule","about","social","fms"]
+  widgets = ["recent","choirschedule","sponsors-widget","about","social","fms"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget

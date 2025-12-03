@@ -1,13 +1,53 @@
-<div style="background-color: #073355; color: white; padding: 12px;font-size: larger;">
-  <h1 style="color: white;"><a style="color: white;" href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">🎵 Conductor’s Circle – $1,000</a></h1>
-  <p>Includes all level benefits, plus name/logo on TMEA trip shirts and a group thank-you card signed by students & director.!</p>
+<div class="div-conductor" style="background-color: #073355; color: white; padding: 12px; font-size: larger;">
+  <h1 id="conductor" style="color: white;"><a style="color: white;" href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">🎵 Conductor’s Circle – $1,000</a></h1>
+  <p>Includes all level benefits, plus name/logo on TMEA trip shirts and a group thank-you card signed by students & director!</p>
+  {{ $data := index .Site.Data.sponsors.conductor }}
+  {{ if $data }}
+    <ul class="sponsor-list">
+      {{ range $data }}
+          <li class="conductor">{{ .name }}</li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p>Be our first!</p>
+  {{ end }}
 </div>
 
-<h3><a href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">🎶 Virtuoso – $750</a></h3>
+<h2 id="harmony"><a href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">🎶 Virtuoso – $750</a></h3>
 <p>Includes Friends of Cantus and Harmony benefits, plus verbal acknowledgment at all concerts.</p>
+{{ $data := index .Site.Data.sponsors.harmony }}
+{{ if $data }}
+  <ul class="sponsor-list">
+    {{ range $data }}
+        <li class="harmony">{{ .name }}</li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>No sponsors yet — your business could be the first!</p>
+{{ end }}
 
-<h3><a href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">💫 Harmony – $500</a></h3>
+<h2 id="virtuoso"><a href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">💫 Harmony – $500</a></h3>
 <p>Includes Friend of Cantus benefits, plus recognition on Forestwood Choir social media.</p>
+{{ $data := index .Site.Data.sponsors.harmony }}
+{{ if $data }}
+  <ul class="sponsor-list">
+    {{ range $data }}
+        <li class="harmony">{{ .name }}</li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>No sponsors yet — thank you for supporting our choir!</p>
+{{ end }}
 
-<h3><a href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">🎤 Friend of Cantus – $250</a></h3>
+<h3 id="friend"><a href="https://my.cheddarup.com/c/forestwood-middle-school-choir-tmea-fundraiser" target="_blank">🎤 Friend of Cantus – $250</a></h3>
 <p>Name listed in digital concert programs and on choir website.</p>
+{{ $data := index .Site.Data.sponsors.friend }}
+{{ if $data }}
+  <ul class="sponsor-list">
+    {{ range $data }}
+        <li class="friendofcantus">{{ .name }}</li>
+    {{ end }}
+  </ul>
+{{ else }}
+  <p>Be our first!</p>
+{{ end }}

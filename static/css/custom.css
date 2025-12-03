@@ -235,3 +235,19 @@ table th {
 .uploadtest {
     color: #000000;
 }
+
+ul.sponsor-list {
+    list-style:circle;
+}
+
+li.conductor {
+    font-size:x-large;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+
+li.friendofcantus, li.virtuoso, li.harmony {
+    font-weight: bold;
+    color: #073772;
+}
